@@ -1,1 +1,1 @@
-input default nya input.txt
+input.txt (semua domain nya wajib ada disitu)
