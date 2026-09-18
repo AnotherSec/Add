@@ -1,1 +1,1 @@
-input.txt (semua domain nya wajib ada disitu)
+input.txt (semua URL nya wajib ada disitu)
