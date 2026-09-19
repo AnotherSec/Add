@@ -10,8 +10,8 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 INPUT_FILE  = "input.txt"
 OUTPUT_FILE = "hasil.txt"
-TIMEOUT     = 10
-THREADS     = 20
+TIMEOUT     = 20
+THREADS     = 50
 
 
 def strip_scheme(line):
